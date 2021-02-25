@@ -96,4 +96,4 @@ RUN dpkg -i wkhtmltox_0.12.5-1.stretch_amd64.deb
 
 ## Licence
 
-This repository is under GPL3 Licence.
+This repository is under MIT Licence.
